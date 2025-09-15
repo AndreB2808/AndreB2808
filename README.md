@@ -1,5 +1,5 @@
 
- ## Linguagens 💻
+ ## Linguagens já utilizadas ⌨️
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
