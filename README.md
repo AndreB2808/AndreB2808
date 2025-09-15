@@ -9,5 +9,5 @@
   <img align="center" alt="" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
   <img align="center" alt="" height="45" width="40" src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/zjjcJKZ.png">
   <img align="center" alt="" height="45" width="40" src="https://iconlogovector.com/uploads/images/2024/11/lg-6725c402dce3d-R-programming-language.webp">
-  <img align="center" alt="" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
