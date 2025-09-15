@@ -9,5 +9,5 @@
   <img align="center" alt="" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="" height="45" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
