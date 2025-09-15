@@ -8,6 +8,6 @@
   <img align="center" alt="" height="45" width="40" src="https://logospng.org/download/javascript/logo-javascript-icon-512.png">
   <img align="center" alt="" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
   <img align="center" alt="" height="45" width="40" src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/zjjcJKZ.png">
-  <img align="center" alt="" height="45" width="40" src="https://images.seeklogo.com/logo-png/27/2/r-project-logo-png_seeklogo-273836.png">
+  <img align="center" alt="" height="45" width="40" src="https://iconlogovector.com/uploads/images/2024/11/lg-6725c402dce3d-R-programming-language.webp">
   <img align="center" alt="" height="45" width="40" src="https://icon2.cleanpng.com/20180617/apq/aa6tl6bzx.webp">
 </div>
