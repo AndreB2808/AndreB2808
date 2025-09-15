@@ -2,8 +2,8 @@
  ## Linguagens já utilizadas ⌨️
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="42" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
-  <img align="center" alt="R" height="48" width="43" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png">
+  <img align="center" alt="" height="43" width="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
+  <img align="center" alt="R" height="47" width="42" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png">
   <img align="center" alt="" height="45" width="40" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/java_256x256.png">
   <img align="center" alt="" height="45" width="40" src="https://logospng.org/download/javascript/logo-javascript-icon-512.png">
   <img align="center" alt="" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">
