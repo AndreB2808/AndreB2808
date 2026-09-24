@@ -1,4 +1,4 @@
-## Linguagens já utilizadas ⌨️
+## Linguagens utilizadas ⌨️
 
 <p>
   <img height="45" src="https://raw.githubusercontent.com/AndreB2808/AndreB2808/refs/heads/main/C_Programming_Language.svg.png">
@@ -11,4 +11,5 @@
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img height="45" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 </p>
